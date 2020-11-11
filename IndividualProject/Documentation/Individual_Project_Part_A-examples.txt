@@ -1,0 +1,20 @@
+Course
+title       = "CB12 Full Time C#"
+stream      = "C#" // Java, JavaScript, Python
+type        = "Full Time" // Part Time, Online, Hybrid Full Time, Hybrid Part Time
+start_date  = 01/01/1900
+end_date    = 31/03/1900
+
+Assignment (given - announcement / Marks (Rubric))
+title       = "Individual Project Part A"
+description = "A private school that has Course, Trainer, Student, Assignment lists"
+subDateTime = 10/01/1900
+oralMark    = 20
+totalMark   = 80
+
+Assignment (submitted - Student)
+title       = "Individual Project Part A"
+description = "A private school that has Course, Trainer, Student, Assignment lists"
+subDateTime = 09/01/1900
+oralMark    = 4
+totalMark   = 16
